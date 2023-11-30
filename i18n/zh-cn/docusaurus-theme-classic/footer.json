@@ -1,0 +1,110 @@
+{
+  "link.title.Resources": {
+    "message": "Resources",
+    "description": "The title of the footer links column with title=Resources in the footer"
+  },
+  "link.title.Use Utility": {
+    "message": "Use Utility",
+    "description": "The title of the footer links column with title=Use Utility in the footer"
+  },
+  "link.title.Learning": {
+    "message": "Learning",
+    "description": "The title of the footer links column with title=Learning in the footer"
+  },
+  "link.title.Developers": {
+    "message": "Developers",
+    "description": "The title of the footer links column with title=Developers in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.item.label.White Paper": {
+    "message": "White Paper",
+    "description": "The label of footer link with label=White Paper linking to /docs/intro"
+  },
+  "link.item.label.Green Paper": {
+    "message": "Green Paper",
+    "description": "The label of footer link with label=Green Paper linking to https://stackoverflow.com/questions/tagged/docusaurus"
+  },
+  "link.item.label.Utility Wallet": {
+    "message": "Utility Wallet",
+    "description": "The label of footer link with label=Utility Wallet linking to /docs/intro"
+  },
+  "link.item.label.Blockchain Explorer": {
+    "message": "Blockchain Explorer",
+    "description": "The label of footer link with label=Blockchain Explorer linking to /docs/intro"
+  },
+  "link.item.label.Faucet": {
+    "message": "Faucet",
+    "description": "The label of footer link with label=Faucet linking to /docs/intro"
+  },
+  "link.item.label.Ecosystem dApps": {
+    "message": "Ecosystem dApps",
+    "description": "The label of footer link with label=Ecosystem dApps linking to /docs/intro"
+  },
+  "link.item.label.Mining Management Tool": {
+    "message": "Mining Management Tool",
+    "description": "The label of footer link with label=Mining Management Tool linking to /docs/intro"
+  },
+  "link.item.label.GetPower": {
+    "message": "GetPower",
+    "description": "The label of footer link with label=GetPower linking to /docs/intro"
+  },
+  "link.item.label.AI Model": {
+    "message": "AI Model",
+    "description": "The label of footer link with label=AI Model linking to /docs/intro"
+  },
+  "link.item.label.Learning Center": {
+    "message": "Learning Center",
+    "description": "The label of footer link with label=Learning Center linking to /docs/intro"
+  },
+  "link.item.label.What is Utility": {
+    "message": "What is Utility",
+    "description": "The label of footer link with label=What is Utility linking to /docs/intro"
+  },
+  "link.item.label.What is UNC Token": {
+    "message": "What is UNC Token",
+    "description": "The label of footer link with label=What is UNC Token linking to /docs/intro"
+  },
+  "link.item.label.What is POCI Consensus": {
+    "message": "What is POCI Consensus",
+    "description": "The label of footer link with label=What is POCI Consensus linking to /docs/intro"
+  },
+  "link.item.label.Developer Hub": {
+    "message": "Developer Hub",
+    "description": "The label of footer link with label=Developer Hub linking to /docs/intro"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to /docs/intro"
+  },
+  "link.item.label.Github": {
+    "message": "Github",
+    "description": "The label of footer link with label=Github linking to https://twitter.com/docusaurus"
+  },
+  "link.item.label.Forum": {
+    "message": "Forum",
+    "description": "The label of footer link with label=Forum linking to /docs/intro"
+  },
+  "link.item.label.Community Hub": {
+    "message": "Community Hub",
+    "description": "The label of footer link with label=Community Hub linking to /blog"
+  },
+  "link.item.label.Online Community": {
+    "message": "Online Community",
+    "description": "The label of footer link with label=Online Community linking to https://github.com/facebook/docusaurus"
+  },
+  "link.item.label.Utility Foundation": {
+    "message": "Utility Foundation",
+    "description": "The label of footer link with label=Utility Foundation linking to /blog"
+  },
+  "link.item.label.Activity": {
+    "message": "Activity",
+    "description": "The label of footer link with label=Activity linking to /blog"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

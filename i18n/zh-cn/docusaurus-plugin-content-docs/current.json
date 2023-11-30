@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category. what is Utility": {
+    "message": "什么是Utility",
+    "description": "The label for category  what is Utility in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.what is Utility": {
+    "message": "what is Utility",
+    "description": "The label for category what is Utility in sidebar tutorialSidebar"
+  }
+}

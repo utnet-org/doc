@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Utility",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Utility Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Basic": {
+    "message": "基础",
+    "description": "Navbar item with label Basic"
+  },
+  "item.label.Node": {
+    "message": "节点",
+    "description": "Navbar item with label Node"
+  },
+  "item.label.Power": {
+    "message": "算力供应商",
+    "description": "Navbar item with label Power"
+  },
+  "item.label.Dapp": {
+    "message": "Dapp 开发",
+    "description": "Navbar item with label Dapp"
+  },
+  "item.label.Community": {
+    "message": "社区",
+    "description": "Navbar item with label Community"
+  }
+}
