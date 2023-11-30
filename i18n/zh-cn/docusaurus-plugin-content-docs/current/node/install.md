@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# install and configure
-## Create a docs version
+# 安装和配置安装和配置
+## 创建文档版本
 
 Release a version 1.0 of your project:
 

@@ -144,7 +144,7 @@ const config = {
             items: [
               {
                 label: 'White Paper',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Green Paper',
@@ -157,31 +157,31 @@ const config = {
             items: [
               {
                 label: 'Utility Wallet',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Blockchain Explorer',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Faucet',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Ecosystem dApps',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Mining Management Tool',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'GetPower',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'AI Model',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
             ],
           },
@@ -190,19 +190,19 @@ const config = {
             items: [
               {
                 label: 'Learning Center',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'What is Utility',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'What is UNC Token',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'What is POCI Consensus',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
             ],
           },
@@ -211,11 +211,11 @@ const config = {
             items: [
               {
                 label: 'Developer Hub',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Discord',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
               {
                 label: 'Github',
@@ -223,7 +223,7 @@ const config = {
               },
               {
                 label: 'Forum',
-                to: '/docs/intro',
+                to: '/docs/dapp/start',
               },
             ],
           },
