@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-# Computing power type
+# 链的工作方式

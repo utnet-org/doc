@@ -2,4 +2,4 @@
 sidebar_position: 4
 ---
 
-# Computing power marke
+# 算力类型
