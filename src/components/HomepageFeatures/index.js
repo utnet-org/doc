@@ -56,7 +56,7 @@ function Feature({Svg, title, description, imageSizeClass, handleClickRoute}) {
   return (
       <div className={styles.innerDivStyle}>
           <Link to={handleClickRoute} style={{ textDecoration: 'none' }}>
-              <div>
+              <div className={styles.imageSizeBox}>
                   <img className={imageSizeClass} src={Svg} />
               </div>
               <div>

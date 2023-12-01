@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# Quick start
+# 快速开始

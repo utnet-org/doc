@@ -1,82 +1,82 @@
 {
   "link.title.Resources": {
-    "message": "Resources",
+    "message": "资源",
     "description": "The title of the footer links column with title=Resources in the footer"
   },
   "link.title.Use Utility": {
-    "message": "Use Utility",
+    "message": "使用 Utility",
     "description": "The title of the footer links column with title=Use Utility in the footer"
   },
   "link.title.Learning": {
-    "message": "Learning",
+    "message": "学习",
     "description": "The title of the footer links column with title=Learning in the footer"
   },
   "link.title.Developers": {
-    "message": "Developers",
+    "message": "开发商",
     "description": "The title of the footer links column with title=Developers in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "社区",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.item.label.White Paper": {
-    "message": "White Paper",
+    "message": "白皮书",
     "description": "The label of footer link with label=White Paper linking to /docs/intro"
   },
   "link.item.label.Green Paper": {
-    "message": "Green Paper",
+    "message": "绿皮书",
     "description": "The label of footer link with label=Green Paper linking to https://stackoverflow.com/questions/tagged/docusaurus"
   },
   "link.item.label.Utility Wallet": {
-    "message": "Utility Wallet",
+    "message": "Utility 钱包",
     "description": "The label of footer link with label=Utility Wallet linking to /docs/intro"
   },
   "link.item.label.Blockchain Explorer": {
-    "message": "Blockchain Explorer",
+    "message": "区块链浏览器",
     "description": "The label of footer link with label=Blockchain Explorer linking to /docs/intro"
   },
   "link.item.label.Faucet": {
-    "message": "Faucet",
+    "message": "水龙头",
     "description": "The label of footer link with label=Faucet linking to /docs/intro"
   },
   "link.item.label.Ecosystem dApps": {
-    "message": "Ecosystem dApps",
+    "message": "生态系统dApps",
     "description": "The label of footer link with label=Ecosystem dApps linking to /docs/intro"
   },
   "link.item.label.Mining Management Tool": {
-    "message": "Mining Management Tool",
+    "message": "Mining管理工具",
     "description": "The label of footer link with label=Mining Management Tool linking to /docs/intro"
   },
   "link.item.label.GetPower": {
-    "message": "GetPower",
+    "message": "淘算力",
     "description": "The label of footer link with label=GetPower linking to /docs/intro"
   },
   "link.item.label.AI Model": {
-    "message": "AI Model",
+    "message": "AI 模型",
     "description": "The label of footer link with label=AI Model linking to /docs/intro"
   },
   "link.item.label.Learning Center": {
-    "message": "Learning Center",
+    "message": "学习中心学习中心",
     "description": "The label of footer link with label=Learning Center linking to /docs/intro"
   },
   "link.item.label.What is Utility": {
-    "message": "What is Utility",
+    "message": "什么是Utility",
     "description": "The label of footer link with label=What is Utility linking to /docs/intro"
   },
   "link.item.label.What is UNC Token": {
-    "message": "What is UNC Token",
+    "message": "什么是UNC代币",
     "description": "The label of footer link with label=What is UNC Token linking to /docs/intro"
   },
   "link.item.label.What is POCI Consensus": {
-    "message": "What is POCI Consensus",
+    "message": "什么是POCI共识",
     "description": "The label of footer link with label=What is POCI Consensus linking to /docs/intro"
   },
   "link.item.label.Developer Hub": {
-    "message": "Developer Hub",
+    "message": "开发者中心",
     "description": "The label of footer link with label=Developer Hub linking to /docs/intro"
   },
   "link.item.label.Discord": {
-    "message": "Discord",
+    "message": "开发者Discord",
     "description": "The label of footer link with label=Discord linking to /docs/intro"
   },
   "link.item.label.Github": {
@@ -84,27 +84,23 @@
     "description": "The label of footer link with label=Github linking to https://twitter.com/docusaurus"
   },
   "link.item.label.Forum": {
-    "message": "Forum",
+    "message": "论坛",
     "description": "The label of footer link with label=Forum linking to /docs/intro"
   },
   "link.item.label.Community Hub": {
-    "message": "Community Hub",
+    "message": "社区中心",
     "description": "The label of footer link with label=Community Hub linking to /blog"
   },
   "link.item.label.Online Community": {
-    "message": "Online Community",
+    "message": "在线社区",
     "description": "The label of footer link with label=Online Community linking to https://github.com/facebook/docusaurus"
   },
   "link.item.label.Utility Foundation": {
-    "message": "Utility Foundation",
+    "message": "Utility基金会",
     "description": "The label of footer link with label=Utility Foundation linking to /blog"
   },
   "link.item.label.Activity": {
-    "message": "Activity",
+    "message": "活动",
     "description": "The label of footer link with label=Activity linking to /blog"
-  },
-  "copyright": {
-    "message": "Copyright © 2023 My Project, Inc. Built with Docusaurus.",
-    "description": "The footer copyright"
   }
 }

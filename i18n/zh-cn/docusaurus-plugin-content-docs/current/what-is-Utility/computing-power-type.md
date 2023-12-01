@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-# Computing power type
+# 算力类型

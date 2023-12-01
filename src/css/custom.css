@@ -39,6 +39,13 @@ html .footer {
   background: #F6F9F9;
 }
 
+@media (max-width: 834px) {
+  html .navbar {
+    display: flex;
+    padding: 0 20px;
+    background: linear-gradient(250deg, #CDEAF1 5.3%, #FAFBFB 43.99%, #DEF2F3 100.09%);
+  }
+}
 
 /*[data-theme='light'] .DocSearch {*/
 /*  !* --docsearch-primary-color: var(--ifm-color-primary); *!*/

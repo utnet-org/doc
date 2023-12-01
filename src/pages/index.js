@@ -7,16 +7,14 @@ import styles from './index.module.css';
 import Translate from "@docusaurus/Translate";
 
 function HomepageHeader() {
-    const {siteConfig} = useDocusaurusContext();
     return (
         <header className={styles.heroBanner}>
-            <div className="container">
-                <Heading as="h1" className={styles.heroH1}>
-
+            <div className={styles.container} >
+                <div  className={styles.heroH1}>
                     <Translate description="The homepage main heading" id='homepage.heroH1'>
                         Utility Docs
                     </Translate>
-                </Heading>
+                </div>
                 <p className={styles.heroText}>
 
                     <Translate id='homepage.heroText'>
