@@ -21,7 +21,7 @@
   },
   "link.item.label.White Paper": {
     "message": "白皮书",
-    "description": "The label of footer link with label=White Paper linking to /docs/intro"
+    "description": "The label of footer link with label=White Paper linking to /docs/dapp/start"
   },
   "link.item.label.Green Paper": {
     "message": "绿皮书",
@@ -29,55 +29,55 @@
   },
   "link.item.label.Utility Wallet": {
     "message": "Utility 钱包",
-    "description": "The label of footer link with label=Utility Wallet linking to /docs/intro"
+    "description": "The label of footer link with label=Utility Wallet linking to /docs/dapp/start"
   },
   "link.item.label.Blockchain Explorer": {
     "message": "区块链浏览器",
-    "description": "The label of footer link with label=Blockchain Explorer linking to /docs/intro"
+    "description": "The label of footer link with label=Blockchain Explorer linking to /docs/dapp/start"
   },
   "link.item.label.Faucet": {
     "message": "水龙头",
-    "description": "The label of footer link with label=Faucet linking to /docs/intro"
+    "description": "The label of footer link with label=Faucet linking to /docs/dapp/start"
   },
   "link.item.label.Ecosystem dApps": {
     "message": "生态系统dApps",
-    "description": "The label of footer link with label=Ecosystem dApps linking to /docs/intro"
+    "description": "The label of footer link with label=Ecosystem dApps linking to /docs/dapp/start"
   },
   "link.item.label.Mining Management Tool": {
     "message": "Mining管理工具",
-    "description": "The label of footer link with label=Mining Management Tool linking to /docs/intro"
+    "description": "The label of footer link with label=Mining Management Tool linking to /docs/dapp/start"
   },
   "link.item.label.GetPower": {
     "message": "淘算力",
-    "description": "The label of footer link with label=GetPower linking to /docs/intro"
+    "description": "The label of footer link with label=GetPower linking to /docs/dapp/start"
   },
   "link.item.label.AI Model": {
     "message": "AI 模型",
-    "description": "The label of footer link with label=AI Model linking to /docs/intro"
+    "description": "The label of footer link with label=AI Model linking to /docs/dapp/start"
   },
   "link.item.label.Learning Center": {
     "message": "学习中心学习中心",
-    "description": "The label of footer link with label=Learning Center linking to /docs/intro"
+    "description": "The label of footer link with label=Learning Center linking to /docs/dapp/start"
   },
   "link.item.label.What is Utility": {
     "message": "什么是Utility",
-    "description": "The label of footer link with label=What is Utility linking to /docs/intro"
+    "description": "The label of footer link with label=What is Utility linking to /docs/dapp/start"
   },
   "link.item.label.What is UNC Token": {
     "message": "什么是UNC代币",
-    "description": "The label of footer link with label=What is UNC Token linking to /docs/intro"
+    "description": "The label of footer link with label=What is UNC Token linking to /docs/dapp/start"
   },
   "link.item.label.What is POCI Consensus": {
     "message": "什么是POCI共识",
-    "description": "The label of footer link with label=What is POCI Consensus linking to /docs/intro"
+    "description": "The label of footer link with label=What is POCI Consensus linking to /docs/dapp/start"
   },
   "link.item.label.Developer Hub": {
     "message": "开发者中心",
-    "description": "The label of footer link with label=Developer Hub linking to /docs/intro"
+    "description": "The label of footer link with label=Developer Hub linking to /docs/dapp/start"
   },
   "link.item.label.Discord": {
     "message": "开发者Discord",
-    "description": "The label of footer link with label=Discord linking to /docs/intro"
+    "description": "The label of footer link with label=Discord linking to /docs/dapp/start"
   },
   "link.item.label.Github": {
     "message": "Github",
@@ -85,7 +85,7 @@
   },
   "link.item.label.Forum": {
     "message": "论坛",
-    "description": "The label of footer link with label=Forum linking to /docs/intro"
+    "description": "The label of footer link with label=Forum linking to /docs/dapp/start"
   },
   "link.item.label.Community Hub": {
     "message": "社区中心",

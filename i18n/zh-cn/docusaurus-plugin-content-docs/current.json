@@ -3,12 +3,13 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category. what is Utility": {
-    "message": "什么是Utility",
-    "description": "The label for category  what is Utility in sidebar tutorialSidebar"
+
+  "sidebar.tutorialSidebar.category.synopsis": {
+    "message": "简介",
+    "description": "The label for category synopsis in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.what is Utility": {
-    "message": "what is Utility",
-    "description": "The label for category what is Utility in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.synopsis 002": {
+    "message": "简介 002",
+    "description": "The label for category synopsis 002 in sidebar tutorialSidebar"
   }
 }
