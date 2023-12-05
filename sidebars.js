@@ -51,27 +51,30 @@ const sidebars = {
 
     // 三级
     tutorialSidebar: [
+        'what-is-Utility/brief',
         {
             type: 'category',
-            label: 'synopsis',
+            label: '链的工作方式',
             items: [
-                {
-                    type: 'category',
-                    label: 'synopsis 002',
-                    items: [
-                        // 'what-is-Utility/brief',
-                        'what-is-Utility/economics',
-                        'what-is-Utility/working',
-                    ]
-                },
-                // 'what-is-Utility/brief',
-                // 'what-is-Utility/economics',
+                // {
+                //     type: 'category',
+                //     label: 'synopsis 002',
+                //     items: [
+                //         // 'what-is-Utility/brief',
+                //
+                //         'what-is-Utility/working',
+                //     ]
+                // },
+
                 'what-is-Utility/working',
-                'what-is-Utility/computing_types',
-                'what-is-Utility/rent',
-                'what-is-Utility/network',
+                'what-is-Utility/bdc',
+
             ],
-        }
+        },
+        'what-is-Utility/economics',
+        'what-is-Utility/computing_types',
+        'what-is-Utility/rent',
+        'what-is-Utility/network',
     ],
     nodeSidebar: [
         'node/introduction',

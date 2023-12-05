@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-# PoCI 的证明模型
+# 区块链定义芯片
