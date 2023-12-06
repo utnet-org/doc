@@ -78,6 +78,10 @@ const sidebars = {
     ],
     nodeSidebar: [
         'node/introduction',
+        'node/block',
+        'node/coffer-data',
+        'node/transaction',
+        'node/coffer-engine',
         'node/install',
         'node/start-node',
         'node/params',
